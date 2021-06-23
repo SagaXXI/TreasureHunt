@@ -16,3 +16,4 @@ Imported_Stuff/
 *.suo
 *.xcodeproj
 *.xcworkspace
+*_BuiltData.uasset
